@@ -1,0 +1,3 @@
+shell permoissions
+changing all 
+
