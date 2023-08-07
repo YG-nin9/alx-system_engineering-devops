@@ -1,2 +1,2 @@
 #!/bin/bash
-touch '\\*\\\\\\"Best School\\"\\\'\\\\\\*$\\?\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*:)'
+filename='*\\"Best School"\'\\*$?**********:)' | touch "$filename"
