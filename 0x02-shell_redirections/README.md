@@ -1,1 +1,1 @@
-hello, world
+some scripts to redirct the outputs
