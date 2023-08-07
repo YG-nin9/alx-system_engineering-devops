@@ -1,1 +1,1 @@
-some scripts to redirct the outputs
+some scripts to redirect the outputs
